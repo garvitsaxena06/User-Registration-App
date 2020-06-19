@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/User-Registration-App/static/css/main.4f9a22c7.chunk.css",
+    "main.js": "/User-Registration-App/static/js/main.325aa9e2.chunk.js",
+    "main.js.map": "/User-Registration-App/static/js/main.325aa9e2.chunk.js.map",
+    "runtime-main.js": "/User-Registration-App/static/js/runtime-main.8a875407.js",
+    "runtime-main.js.map": "/User-Registration-App/static/js/runtime-main.8a875407.js.map",
+    "static/js/2.807f1df4.chunk.js": "/User-Registration-App/static/js/2.807f1df4.chunk.js",
+    "static/js/2.807f1df4.chunk.js.map": "/User-Registration-App/static/js/2.807f1df4.chunk.js.map",
+    "index.html": "/User-Registration-App/index.html",
+    "precache-manifest.506b1680bec64359c3d8facae0d4daf0.js": "/User-Registration-App/precache-manifest.506b1680bec64359c3d8facae0d4daf0.js",
+    "service-worker.js": "/User-Registration-App/service-worker.js",
+    "static/css/main.4f9a22c7.chunk.css.map": "/User-Registration-App/static/css/main.4f9a22c7.chunk.css.map",
+    "static/js/2.807f1df4.chunk.js.LICENSE.txt": "/User-Registration-App/static/js/2.807f1df4.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/User-Registration-App/static/media/background.e8c98604.jpg",
+    "static/media/profile.png": "/User-Registration-App/static/media/profile.2c6e94aa.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8a875407.js",
+    "static/js/2.807f1df4.chunk.js",
+    "static/css/main.4f9a22c7.chunk.css",
+    "static/js/main.325aa9e2.chunk.js"
+  ]
+}
